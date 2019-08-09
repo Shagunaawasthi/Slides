@@ -1,0 +1,10 @@
+{
+    "name": "slides",
+    "version": "0.0.1",
+    "description": "Real-time slides tutorial with Socket.io",
+    "dependencies": {
+        "express": "^4.17.1",
+        "showdown": "^1.9.0",
+        "socket.io": "^2.2.0"
+    }
+}
